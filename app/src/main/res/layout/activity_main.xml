@@ -21,7 +21,7 @@
             app:expandedTitleMarginEnd="64dp"
             app:expandedTitleMarginStart="48dp"
             app:layout_scrollFlags="scroll"
-            app:title="App Title">
+            app:title="CollapsingApp">
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbarid"
